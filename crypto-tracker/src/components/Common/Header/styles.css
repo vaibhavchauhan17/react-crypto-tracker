@@ -8,6 +8,10 @@
     background-color: var(--black);
     z-index: 1000;
   }
+  .logo{
+    color: var(--white) !important;
+  }
+  
   
   .navbar h1 {
     font-size: 1.2rem;
